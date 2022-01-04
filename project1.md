@@ -13,8 +13,7 @@
 
 ## CEVAPLAR
 
-1.    İnsertion Sort verilen örüntüde en küçük değeri buluyor ve en baştaki sayı ile yer değiştiriyor. Ve diğer adımlarda da bu şekilde en küçük sayı ile yer değştirerek sıralama yapıyor.
-        
+1.        
         [2,27,16,22,18,6]     2 ile 22 yer değiştirir
         [2,6,16,22,18,27]     6 ile 27 yer değiştirir
         [2,6,16,22,18,27]     16 diğer değerlerden küçük olduğundan bir sonraki adıma geçilir.
