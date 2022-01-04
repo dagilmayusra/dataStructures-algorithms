@@ -1,11 +1,13 @@
 ## PROJE 2 
-
+```
 [16,21,11,8,12,22] -> Merge Sort
 
 Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 Big-O gösterimini yazınız.
+```
 
 ## CEVAPLAR
+```
 
   [16,21,11]        [8,12,22]
   [16,21]   [11]    [8,12]    [22]
@@ -17,7 +19,7 @@ Big-O gösterimini yazınız.
   2^x= n -->logn
   log(2)n 
   O(n*logn)
-  
+``` 
   
   
   
