@@ -21,9 +21,8 @@
         [2,6,16,18,22,27]     22 den küçük değer var mı diye kontröle devam edilir.
         [2,6,16,18,22,27]     ve sıralanmış olur.
         
-2.    Big-O notation: ilk adımda n, ikinci adımda n-1, ücüncü adımda n-2 şeklinde ilerliyor.
-      Yani n*(n+1)/2 = (n^2+n)/2
-      O(n^2) notasyonu
+2.    n*(n+1)/2 = (n^2+n)/2  Big-O notation: ilk adımda n, ikinci adımda n-1, ücüncü adımda n-2 şeklinde ilerliyor.
+      O(n^2) notasyonu 
         
 3.    Time Complexity : 
                   Average Case: 16 ve 18
