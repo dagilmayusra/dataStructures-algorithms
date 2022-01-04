@@ -11,7 +11,7 @@
 5.    [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 ```
 
-## Cevaplar 
+## CEVAPLAR
 
 1.    İnsertion Sort verilen örüntüde en küçük değeri buluyor ve en baştaki sayı ile yer değiştiriyor. Ve diğer adımlarda da bu şekilde en küçük sayı ile yer değştirerek sıralama yapıyor.
         
